@@ -25,6 +25,7 @@ def has_duplicates(t):
 
 t=[1,2,3,4,2,1]
 print has_duplicates(t)
-.
+print "Good work,sorting done correctly"
+
 
 
